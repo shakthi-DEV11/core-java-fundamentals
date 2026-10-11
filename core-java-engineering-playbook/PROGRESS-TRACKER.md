@@ -10,11 +10,11 @@
 ## Module Tracker
 
 ### 01. JVM and Fundamentals
-- [>] Notes
-- [P] Runnable Examples
-- [P] Tests
-- [ ] Refactoring Exercises
-- [ ] Interview Practice
+- [>] Notes (`stack-vs-heap.md` comprehensive guide)
+- [P] Runnable Examples (`OrderProcessor.java` compiled and verified)
+- [ ] Tests (JUnit 5 test pattern documented; standalone `*Test.java` suite pending)
+- [>] Refactoring Exercises (Documented aggregation challenge in `stack-vs-heap.md`)
+- [>] Interview Practice (Documented scenario Q&A in `stack-vs-heap.md`)
 
 ### 02. Execution Control and Loops
 - [ ] Notes
